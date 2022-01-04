@@ -1,0 +1,2 @@
+# Sentiment Classification with CNN and LSTM
+Comparing performance of CNN and LSTM models implemented in TensorFlow. **script.ipynb** contains all necessary operations and results. Both perform admirably. Dataset included in data directory (from https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp)
